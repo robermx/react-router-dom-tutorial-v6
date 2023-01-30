@@ -13,3 +13,6 @@
 - React V18
 - Vite V4
 - React Router Dom V6
+- Localforage V1
+- Match Sorter v&
+- Sort By V0

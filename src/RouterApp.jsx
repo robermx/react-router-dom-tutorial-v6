@@ -33,7 +33,6 @@ const router = createBrowserRouter([
             loader: contactLoader,
             action: contactAction,
           },
-          /* the rest of the routes */
         ],
       },
       { index: true, element: <Index /> },
