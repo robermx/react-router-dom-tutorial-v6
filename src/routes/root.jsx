@@ -74,7 +74,7 @@ export const Root = () => {
       </div>
       <div
         id="detail"
-        className={(navigation.state = 'loading' ? 'loading' : '')}
+        className={navigation.state === 'loading' ? 'loading' : ''}
       >
         <Outlet />
       </div>
