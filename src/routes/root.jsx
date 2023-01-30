@@ -1,3 +1,5 @@
+import { Outlet } from 'react-router-dom';
+
 export const Root = () => {
   return (
     <>
@@ -30,7 +32,9 @@ export const Root = () => {
           </ul>
         </nav>
       </div>
-      <div id="detail"></div>
+      <div id="detail">
+        <Outlet />
+      </div>
     </>
   );
 };
