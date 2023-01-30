@@ -3,7 +3,7 @@
     <br>
        <img src="/src/assets/react.svg" alt="React Logo" width="200" />
     <hr/>
-    React Router Dom Tutorial V&
+    React Router Dom Tutorial V6
   </h1>
   <p>Tutorial for understanding the operation of React Router Dom v6.</p>
 </div>
